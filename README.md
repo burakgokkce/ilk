@@ -1,0 +1,2 @@
+# ilk
+git & github eğitimi
